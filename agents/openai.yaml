@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Blender Web Showcase"
+  short_description: "Blender MCP + Three.js workflow for interactive 3D product or gallery pages"
+  default_prompt: "用 Codex 配合 Blender MCP、真实 3D 模型和 Three.js，做一个可交互的 3D 展示网页。"
